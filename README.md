@@ -26,7 +26,7 @@ The Iris Flower Species Prediction App is a Streamlit application that allows us
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/iris-flower-prediction-app.git
+   git clone https://github.com/AditDua/Iris-flower.git
 
 2. Navigate to the project directory:
    cd iris-flower-prediction-app
